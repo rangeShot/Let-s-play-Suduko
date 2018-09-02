@@ -8,9 +8,9 @@ by:-
 
 */ 
 #include<bits/stdc++.h>
+#include "functions.cpp"
 using namespace std;
 #define ll long long int
-
 #define pb push_back
 #define len(a) a.size()
 #define fast ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
