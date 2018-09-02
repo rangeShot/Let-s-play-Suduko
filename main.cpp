@@ -31,7 +31,7 @@ const double pi=acos(-1);
 int main(){
 fast;
 cout << "welcome" << endl;
-cout << "Let's play suduko" << endl;
+cout <<"Let's play suduko"<< endl;
 
 flush;
 return 0;
